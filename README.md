@@ -1,4 +1,4 @@
-# pPNPM workspace
+# pPNPM workspaces
 
 
 Testing pnpm monorep
